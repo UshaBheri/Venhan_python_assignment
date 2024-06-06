@@ -1,0 +1,2 @@
+Write a function `read_file(file_path: str) -> List[str]` that reads a text file and returns a 
+list of strings, each representing a line in the file.

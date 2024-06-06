@@ -1,0 +1,14 @@
+{
+    "firstName": "Bheri",
+    "lastName": "Usha",
+    "employee_detais":[
+        {
+            "employee_id":101,
+            "designation":"Developer"
+        },
+        {
+            "state":"Telengana",
+            "company":"ABC"
+        }
+    ]
+}
